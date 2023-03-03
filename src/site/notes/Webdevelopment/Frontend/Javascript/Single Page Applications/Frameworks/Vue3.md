@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"permalink":"/webdevelopment/frontend/javascript/single-page-applications/frameworks/vue3/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":false,"dg-publish":true,"permalink":"/webdevelopment/frontend/javascript/single-page-applications/frameworks/vue3/","dgPassFrontmatter":true}
 ---
 
 
