@@ -6,4 +6,5 @@
 ## Description
 Hello this is my first version of my Blog
 
-[[Public/How to start in IT\|How to start in IT]]
+[[Public/Pages/How to start in IT\|How to start in IT]]
+[[Public/Pages/First Steps\|First Steps]]
